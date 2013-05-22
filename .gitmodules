@@ -1,0 +1,3 @@
+[submodule "appython"]
+	path = appython
+	url = https://github.com/ryanhair/appython.git
